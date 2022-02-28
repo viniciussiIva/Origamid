@@ -3,7 +3,7 @@ Repositório voltado para registrar atividades dos cursos em andamento
 
 Site: https://www.origamid.com/
 
-- [ ] UI Design
+
 - [x] HTML e CSS
 - [ ] CSS Flexbox
 - [ ] CSS Grid Layout
